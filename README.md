@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tiago Mostardinha</h1>
+<h1 align="center">Hi 👋, I'm Guilherme Casal</h1>
 <h4 align="center">I'm a student of Computer Engineering from Portugal</h4>
 
 ### 💬 About Me
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium! Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi, et voluptates ipsam in. Such as:
+I started the computer and computer engineering course at the University of Aveiro in 2020 and here I have many of my personal and university projects
 
 - a
 - b
