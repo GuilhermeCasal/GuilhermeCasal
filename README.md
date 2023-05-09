@@ -4,9 +4,11 @@
 ### 💬 About Me
 I started the computer and computer engineering course at the University of Aveiro in 2020 and here I have many of my personal and university projects
 
-- a
-- b
-- c
+- Security projects;
+- Artificial Intelligence
+- Probabilistic Methods
+- Operating Systems
+- Databases
 
 I have most of my project public, so anyone can see how well i'm doing and what im working on.
 
@@ -40,12 +42,32 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 </details>
 
 <details>	
-  <summary><b>🌱 Currently Learning</b></summary>
+  <summary><b>🌱 I Program in:</b></summary>
   <ul>
-        <li><b>JavaScript & TypeScript</b>
+        <li><b>JavaScript</b>
         <li><b>MySql</b>
         <li><b>PHP</b>
+        <li><b>Java</b>
+	<li><b>Python</b>
+	<li><b>MATLAB</b>
+	<li><b>CSharp</b>
+	<li><b>C++</b>
+	<li><b>C</b>
+	<li><b>Assembly</b>
+	<li><b>VHDL</b>
+	<li><b>Django</b>
+	<li><b>HTML</b>
+	<li><b>CSS</b>
+  </ul>
+</details>
+
+<details>	
+  <summary><b>🌱 Currently Learning</b></summary>
+  <ul>
+        <li><b>GO</b>
+        <li><b>Swift</b>
         <li><b>React</b>
+        <li><b>Flask</b>
   </ul>
 </details>
 
@@ -53,8 +75,7 @@ I have most of my project public, so anyone can see how well i'm doing and what 
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>Dual Boot-OS:</b> Ubuntu 22.04 & Windows 10</li>
-	    <li><b>Laptop: </b> Asus Zenbook 14 (i7)</li>
+  	    <li><b>Dual Boot-OS:</b> Ubuntu 22.04 & Windows 11</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH Linux Shell</li>
 	    <li><b>Code Editor:</b> VSCode</li>
